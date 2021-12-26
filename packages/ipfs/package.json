@@ -1,7 +1,7 @@
 {
-  "name": "ipfs",
-  "version": "0.61.0",
-  "description": "JavaScript implementation of the IPFS specification",
+  "name": "@chris.troutner/ipfs",
+  "version": "3.61.0",
+  "description": "Forked from js-ipfs git commit 45d9baa7576a0ac924f3d01d49371bf1a4cf654c",
   "keywords": [
     "IPFS"
   ],
